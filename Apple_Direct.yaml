@@ -1,0 +1,19 @@
+payload:
+  # > Apple location
+  - DOMAIN,gs-loc-cn.apple.com
+  - DOMAIN-SUFFIX,ls.apple.com
+
+  # > Apple Pay
+  - DOMAIN,smp-device-content.apple.com
+  - DOMAIN-KEYWORD,smp-device
+
+  - DOMAIN,api.smoot.apple.com
+  - DOMAIN,captive.apple.com
+  - DOMAIN,configuration.apple.com
+  - DOMAIN,guzzoni.apple.com
+  - DOMAIN,reserve-prime.apple.com
+  - DOMAIN-SUFFIX,ess.apple.com
+  - DOMAIN-SUFFIX,push-apple.com.akadns.net
+  - DOMAIN-SUFFIX,push.apple.com
+  - DOMAIN-SUFFIX,lcdn-locator.apple.com
+  - DOMAIN-SUFFIX,lcdn-registration.apple.com
