@@ -1,6 +1,6 @@
 # Clash_Ruleset
 
-#AdBlock
+# AdBlock
 https://cdn.jsdelivr.net/gh/jiegto/Clash_Ruleset@master/AdBlock.yaml
 
 # Apple
