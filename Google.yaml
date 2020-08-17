@@ -22,3 +22,6 @@ payload:
 
   - IP-CIDR,173.194.0.0/16,no-resolve
   - IP-CIDR,74.125.0.0/16,no-resolve
+  
+  # > AV_Data
+  - DOMAIN-SUFFIX,dmm.co.jp
