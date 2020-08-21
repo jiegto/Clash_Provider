@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-KEYWORD,pinimg
 
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,fb.me
